@@ -7,8 +7,9 @@
                    |___/       |___/
 ```
 
-### `> Agentic Engineer · AI Systems Architect · Automation Specialist`
+### `> 42 Alumni · Agentic Engineer · AI Systems Architect`
 
+[![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
 [![Claude](https://img.shields.io/badge/Claude-Agent_SDK-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://docs.anthropic.com)
 [![MCP](https://img.shields.io/badge/MCP-Protocol-00ff00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeT0iMjAiIGZvbnQtc2l6ZT0iMjAiPuKamDwvdGV4dD48L3N2Zz4=)](https://modelcontextprotocol.io)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
@@ -16,6 +17,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ---
 
@@ -23,16 +25,17 @@
 $ whoami
 ```
 
-I design and build **autonomous AI agents** that think, decide, and execute — end to end.
+Software engineer trained at **École 42** — built from the ground up on C, systems programming, and peer-to-peer learning with zero hand-holding. Now I channel that low-level engineering discipline into designing **autonomous AI agents** that think, decide, and execute — end to end.
 
 From intelligent CRM pipelines to multi-model orchestration systems, I architect software where **the AI isn't a feature — it's the core**. My stack lives at the intersection of agentic frameworks, MCP integrations, and production-grade automation.
 
 ```python
 class AgenticEngineer:
-    name     = "Tanguy Orsini"
-    role     = "Agentic Engineer & AI Systems Architect"
-    focus    = ["Autonomous Agents", "MCP Ecosystem", "AI Orchestration"]
-    building = "Systems that replace workflows with intelligence"
+    name       = "Tanguy Orsini"
+    background = "École 42 — Systems Programming, C, Algorithms"
+    role       = "Agentic Engineer & AI Systems Architect"
+    focus      = ["Autonomous Agents", "MCP Ecosystem", "AI Orchestration"]
+    building   = "Systems that replace workflows with intelligence"
 
     def stack(self):
         return {
@@ -42,6 +45,7 @@ class AgenticEngineer:
             "orchestration":["Multi-Agent Routing", "RAG Pipelines", "Function Calling"],
             "automation":   ["n8n", "Zapier", "Custom Workflows", "Event-Driven Systems"],
             "backend":      ["Next.js", "Node.js", "Rust", "Python", "FastAPI"],
+            "low_level":    ["C", "Memory Management", "Unix", "Networking"],
             "infra":        ["Supabase", "Vercel", "Docker", "Edge Functions"]
         }
 ```
@@ -60,6 +64,7 @@ MULTI-MODEL ROUTING      ██████████████████�
 RAG & KNOWLEDGE BASES    ███████████████████████████████░  Advanced
 INTELLIGENT AUTOMATION   ████████████████████████████████  Expert
 CRM & PIPELINE SYSTEMS   ███████████████████████████████░  Advanced
+SYSTEMS PROGRAMMING (C)  ███████████████████████████████░  Advanced
 FULL-STACK ENGINEERING   ███████████████████████████████░  Advanced
 ```
 
@@ -94,6 +99,8 @@ $ cat /etc/manifest
  │  ◆ Native desktop AI apps (Tauri + Rust)                    │
  │  ◆ Full-stack platforms with AI at the core                 │
  │                                                             │
+ │  42 trained. Code-first. No shortcuts.                      │
+ │                                                             │
  └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -115,7 +122,7 @@ $ cat /etc/manifest
  It's about building the agents that use them.
 ```
 
-**[@tanguyors](https://github.com/tanguyors)** · Agentic Engineer
+**[@tanguyors](https://github.com/tanguyors)** · 42 Alumni · Agentic Engineer
 
 ![](https://komarev.com/ghpvc/?username=tanguyors&color=00ff00&style=flat-square&label=PROFILE+VIEWS)
 
